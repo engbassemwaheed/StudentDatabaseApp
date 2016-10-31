@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Database App</string>
+    
+    
+    
+    
+    <string-array name="academic_years">
+        <item>Preparatory Year</item>
+        <item>First Year</item>
+        <item>Second Year</item>
+        <item>Third Year</item>
+        <item>Fourth Year</item>
+    </string-array>
+
+    <string-array name="grades">
+        <item>Fair</item>
+        <item>Good</item>
+        <item>Very Good</item>
+        <item>Excellent</item>
+    </string-array>
+    
+</resources>
